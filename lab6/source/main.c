@@ -158,6 +158,7 @@ void tickCounter()
 		break;
 		
 		case WAIT1:
+		currIndex = 0x00;
 		break;
 		
 		case FREEZE:
